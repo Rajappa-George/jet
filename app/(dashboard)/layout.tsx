@@ -150,7 +150,7 @@ export default function DashboardLayout({
         <div className="shrink-0 border-b border-neutral-200 px-5 py-5">
           <div className="flex items-center gap-3">
             <img
-              src="/icon.png"
+              src="/jet/icon.png"
               alt="JET Skills Logo"
               className="h-12 w-auto shrink-0 object-contain"
             />
